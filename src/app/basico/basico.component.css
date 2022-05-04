@@ -1,0 +1,14 @@
+.contenedor{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.uno{
+    margin: auto;
+    border: 1px solid #000;
+    padding: 20px;
+    margin: 10px;
+    width: 500px;
+    text-align: center;
+}
